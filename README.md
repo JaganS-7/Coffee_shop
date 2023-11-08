@@ -1,3 +1,3 @@
 # Coffee_shop
 
-This is just a simple html page (with css) and a form to collect input from users.
+This is just a simple HTML page (with CSS) and a FORM to collect input from users.
