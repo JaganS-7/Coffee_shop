@@ -49,7 +49,7 @@ body{
  }
 
 .image-content{
-	background-image: url("background-image.jpg");
+	background-image: url("images/background-image.jpg");
 	height: 700px;
 	width: 100%;
 	text-align: center;
